@@ -1,0 +1,22 @@
+:root {
+  --text-color: #ffffff;
+  --title-text: #000000;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+ul {
+  list-style: none;
+}
+.popular-offers {
+  text-decoration: none;
+  color: var(--text-color);
+}
+.title-offers {
+  color: var(--title-text);
+}
+.offers-img {
+  border-radius: 4px;
+}
