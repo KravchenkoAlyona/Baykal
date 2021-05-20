@@ -16,7 +16,25 @@ ul {
 }
 .title-offers {
   color: var(--title-text);
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 1.33;
 }
 .offers-img {
   border-radius: 4px;
+}
+.title-about-offers {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.27;
+}
+.offers-cost {
+  font-weight: 400;
+  font-size: 16;
+  line-height: 1.31;
+}
+.title-all-offers {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.29;
 }
